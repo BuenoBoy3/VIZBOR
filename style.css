@@ -1,0 +1,114 @@
+.header {
+	display: flex;
+	justify-content: left;
+}
+
+.main_description {
+	display: flex;
+	justify-content: left;
+	font-size: medium;
+}
+li {
+	font-size: x-large;
+	margin-bottom: 30px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+hr {
+	margin-top: 30px;
+}
+
+.always_student_title {
+	display: flex;
+	justify-content: center;
+}
+
+.always_student_text {
+	display: flex;
+	justify-content: justify;
+	font-size: xx-large;
+	margin-left: 500px;
+	margin-right: 500px;
+	text-align: center;
+}
+
+.always_student_description_title {
+	display: flex;
+	justify-content: center;
+}
+
+.always_student_description_text {
+	display: flex;
+	justify-content: justify;
+	font-size: xx-large;
+	margin-left: 500px;
+	margin-right: 500px;
+	text-align: center;
+}
+
+.why_wish_to_learn_description_title {
+	display: flex;
+	justify-content: center;
+}
+
+.why_wish_to_learn_description_point1 {
+	display: flex;
+	justify-content: center;
+}
+
+.why_wish_to_learn_description_text_point1 {
+	display: flex;
+	justify-content: justify;
+	font-size: xx-large;
+	margin-left: 500px;
+	margin-right: 500px;
+	text-align: center;
+}
+
+.why_wish_to_learn_description_point2 {
+	display: flex;
+	justify-content: center;
+}
+
+.why_wish_to_learn_description_text_point2 {
+	display: flex;
+	justify-content: justify;
+	font-size: xx-large;
+	margin-left: 500px;
+	margin-right: 500px;
+	text-align: center;
+}
+
+.always_student_solution_title {
+	display: flex;
+	justify-content: center;
+}
+
+.always_student_solution_text {
+	display: flex;
+	justify-content: justify;
+	font-size: xx-large;
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align: center;
+}
+
+.always_student_li_solution {
+	display: flex;
+	justify-content: left;
+	font-size: xx-large;
+}
+
+.always_student_cause {
+	font-size: xx-large;
+	display: flex;
+	justify-content: left;
+	margin-right: 200px;
+	margin-left: 200px;
+}
+
+.bottom {
+	font-size: medium;
+	display: flex;
+	justify-content: center;
+}
